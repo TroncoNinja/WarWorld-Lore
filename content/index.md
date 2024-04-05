@@ -1,5 +1,5 @@
 ---
-title: Indice
+title: WarWorld
 ---
 WarWorld è un gioco di ruolo da tavolo creato da me @TroncoNinja (grazie al cavolo). Ambientato in una Terra alternativa nell'anno 2035, dove gli scontri armati ne fanno da padrone e non si ha tempo per fermarsi a pensare se la direzione intrapresa dal Mondo sia giusta o sbagliata.
 
@@ -18,6 +18,7 @@ WarWorld è un gioco di ruolo da tavolo creato da me @TroncoNinja (grazie al cav
  ---
 
 ## FAZIONI
+- [[ONN]]
 
 ---
 
