@@ -17,26 +17,63 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 ---
 ## CULTURA
 
+- #### [[PMC]]:
+	- [[Einzelgänger]]
+	- [[FireKeepers]]
+	- [[GPMC]]
+	- [[Machine Empire]]
+	- [[Patriots]]
+
  ---
 
 ## FAZIONI
+
+- [[America]]
+- [[Circulus Ciambellista]]
+- [[DSS]]
+- [[Nuovo Giappone]]
 - [[ONN]]
 
 ---
 
 ## ORGANIZZAZIONI
 
+- #### America:
+	- 
+
+- #### Circulus Ciambellista:
+	- 
+
+
+- #### DSS:
+	- 
+
+
+- #### Nuovo Giappone:
+	- 
+
+
+- #### ONN:
+	- [[MWA]]
+	- [[ONN Armamenti]]
+	- [[WVCD]]
+
 ---
 
 ## PERSONAGGI
+
+
 
 ---
 
 ## STORIA
 
 
+
 ---
 
 ## TECNOLOGIA
+
+
 
 ---
