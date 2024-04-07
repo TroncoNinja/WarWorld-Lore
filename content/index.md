@@ -17,12 +17,8 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 ---
 ## CULTURA
 
-- #### [[PMC]]:
-	- [[Einzelgänger]]
-	- [[FireKeepers]]
-	- [[GPMC]]
-	- [[Machine Empire]]
-	- [[Patriots]]
+- #### ONN:
+	- [[Carta per i diritti delle intelligenze non umane]]
 
  ---
 
@@ -57,6 +53,12 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 	- [[MWA]]
 	- [[ONN Armamenti]]
 	- [[WVCD]]
+	-  [[PMC]]:
+		- [[Einzelgänger]]
+		- [[FireKeepers]]
+		- [[GPMC]]
+		- [[Machine Empire]]
+		- [[Patriots]]
 
 ---
 
@@ -74,6 +76,8 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 
 ## TECNOLOGIA
 
+- [[Carbite]]
+- [[Siringhe]]
 
 
 ---

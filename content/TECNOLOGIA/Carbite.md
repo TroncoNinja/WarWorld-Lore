@@ -1,0 +1,1 @@
+Elemento fondamentale per la nano-chirurgia, usato principalmente nella costruzione di [[Siringhe]]
