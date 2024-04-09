@@ -19,9 +19,17 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 
 - #### ONN:
 	- [[Carta per i diritti delle intelligenze non umane]]
+- #### Circulus Ciambellista:
+	- [[Ciambellisti]]
+	- [[Integrato]]
 
  ---
+## ECONOMIA
 
+-  [[Libero Mercato Mondiale]]
+- [[Nuovo Dollaro]]
+
+---
 ## FAZIONI
 
 - [[America]]
@@ -31,7 +39,15 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 - [[ONN]]
 
 ---
+## GEOGRAFIA
 
+- #### ONN:
+	- [[Roma]]
+- #### Circulus Ciambellista:
+	- [[Egeria]]
+- #### [[ZN]]
+
+---
 ## ORGANIZZAZIONI
 
 - #### America:
@@ -70,7 +86,11 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 
 ## STORIA
 
+#### [[Timeline]]
 
+- [[Scissione]]
+- [[Epoca Nascosta]]
+- [[Miglio Verde]]
 
 ---
 
@@ -78,6 +98,7 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 
 - [[Carbite]]
 - [[Siringhe]]
-
+- [[Androidi]]
+- [[Meta Umani]]
 
 ---
