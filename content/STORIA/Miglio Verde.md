@@ -1,0 +1,2 @@
+Il miglio verde è l'epoca corrente, un periodo dove il cittadino si è abituato alla guerra costante.
+Il termine "miglio verde" deriva dalla linea di colore verde che viene posta a circa un miglio dalle [[ZN|Zone Morte]], delimitando la zona sicura.
