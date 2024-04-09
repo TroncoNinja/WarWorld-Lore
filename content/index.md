@@ -15,23 +15,31 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 <br>
 
 ---
+
 ## [[Mondo|MAPPA DEL MONDO]] 
+
 ---
+
 ## CULTURA
 
 - #### ONN:
+
 	- [[Carta per i diritti delle intelligenze non umane]]
+
 - #### Circulus Ciambellista:
+
 	- [[Ciambellisti]]
 	- [[Integrato]]
 
  ---
+
 ## ECONOMIA
 
 -  [[Libero Mercato Mondiale]]
 - [[Nuovo Dollaro]]
 
 ---
+
 ## FAZIONI
 
 - [[America]]
@@ -41,12 +49,17 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 - [[ONN]]
 
 ---
+
 ## GEOGRAFIA
 
 - #### ONN:
+
 	- [[Roma]]
+
 - #### Circulus Ciambellista:
+
 	- [[Egeria]]
+
 - #### [[ZN]]
 
 ---
@@ -68,6 +81,7 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 
 
 - #### ONN:
+
 	- [[MWA]]
 	- [[ONN Armamenti]]
 	- [[WVCD]]
