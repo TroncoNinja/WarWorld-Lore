@@ -2,7 +2,7 @@
 ---
 ### 2008
 
->Evento della [[Scissione]]
+> Evento della [[Scissione]]
 
 
 ---
