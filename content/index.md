@@ -15,6 +15,8 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 <br>
 
 ---
+## [[Mondo|MAPPA DEL MONDO]] 
+---
 ## CULTURA
 
 - #### ONN:
