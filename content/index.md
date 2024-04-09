@@ -31,7 +31,9 @@ Link al manuale per giocare : [Manuale](https://docs.google.com/document/d/1fgRG
 	- [[Ciambellisti]]
 	- [[Integrato]]
 
- ---
+ 
+  
+---
 
 ## ECONOMIA
 
